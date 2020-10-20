@@ -4,7 +4,7 @@
 
 ## Система
 
-  CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz   
+  CPU: AMD Phenon(tm) IIx4 955 Processor 3.20GHz   
   RAM: 4 GB   
   GPU: GeForce GTS 450   
   OS: Windows Х64   
