@@ -11,7 +11,7 @@
  
 ## Результаты
 
-| N | CPU | GPU | CPU time/ GPU time |
+| N | CPU | GPU | Acceleration |
 | --- | --- | --- | --- |
 | 128 | 9.0 ms | 2.1 ms | 4.28 |
 | 256 | 65.6 ms | 8.1 ms | 8.1 |
